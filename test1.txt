@@ -1,3 +1,5 @@
 A file to test git.
 I hava changed something now.
 Changing 2.
+Test git diff.
+Try stepBack.
